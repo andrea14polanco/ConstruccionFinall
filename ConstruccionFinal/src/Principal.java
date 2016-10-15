@@ -5,7 +5,7 @@ public class Principal {
 		System.out.println("Hola Mundo");
 		System.out.println("Hola Mundo");
 		System.out.println("Hola Mundo");
-		System.out.println("Hola Mundo");s
+		System.out.println("Hola Mundo");
 
 	}
 
